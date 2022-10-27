@@ -1,4 +1,5 @@
-# Задание 1 [решение] (https://docs.google.com/spreadsheets/d/1qe32CBiStdjBYI1_klE2y-RKbClS2mkHfntrEsx506k/edit?usp=sharing)
+# Задание 1
+### [решение](https://docs.google.com/spreadsheets/d/1qe32CBiStdjBYI1_klE2y-RKbClS2mkHfntrEsx506k/edit?usp=sharing)
 ***
 Написать чеклист для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя, включая функционал разделов, на [сайте] (https://henderson.ru/)
 
